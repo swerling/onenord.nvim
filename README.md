@@ -4,6 +4,9 @@
 
 ![Screenshot of the onenordlight theme](https://user-images.githubusercontent.com/52933714/144966905-4b17902b-53bb-4de7-8bd8-bb7d72603ca6.png)
 
+
+sps: this is just onenord, but a little darker and more contrast
+
 ## Features
 
 Onenord is a Neovim theme written in Lua that combines the [Nord](https://www.nordtheme.com) and [Atom One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-ui) color palettes. More specifically, it seeks to add more vibrance to the Nord theme and provide a great programming experience by leveraging [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)!

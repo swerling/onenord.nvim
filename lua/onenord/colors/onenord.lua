@@ -1,7 +1,10 @@
 local colors = {
   fg = "#C8D0E0",
   fg_light = "#E5E9F0",
-  bg = "#2E3440",
+  -- ORIGbg = "#2E3440",
+  -- SPS1bg = "#181a1f",
+  -- SPS2bg = "#080a0e",
+  bg = "#181a1f",
   gray = "#646A76",
   light_gray = "#6C7A96",
   cyan = "#88C0D0",
